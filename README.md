@@ -1,4 +1,4 @@
-# 📄 Sistema de Gerenciamento de Filas com Descritores - Copytech (Pascal)
+# 📄 Sistema de Gerenciamento de Filas com Descritores Copytech - Unidavi (Pascal)
 
 ## 👨‍💻 Alunos
 
