@@ -55,7 +55,6 @@ O sistema utiliza **filas com descritores** para organizar os atendimentos, cont
 
 - Uso de **procedures** e **funções** para modularização
 - Filas implementadas com **descritores**, contendo:
-  - Ponteiros de início e fim
   - Contador de elementos
   - Contadores de entradas, atendimentos e rejeições
 
